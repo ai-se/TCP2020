@@ -1,0 +1,10 @@
+###### required packages ######
+pandas
+numpy
+matplotlib
+scipy
+sklearn
+random
+statistics
+time
+os
