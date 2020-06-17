@@ -16,5 +16,9 @@
   ```
   $ type result.txt| python2 sk_stats.py --text 30 --latex False
   ```
+  or with Latex text
+  ```
+  $ type result.txt| python2 sk_stats.py --text 30 --latex True
+  ```
   Scott-Knott analysis will show in your terminal.
 - Examples of Scott-Knott analysis and run time are showed in **result** folder and **runtime** folder.
