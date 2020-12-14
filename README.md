@@ -22,3 +22,8 @@
   ```
   Scott-Knott analysis will show in your terminal.
 - Examples of Scott-Knott analysis and run time are showed in **result** folder and **runtime** folder.
+- To reproduce our results for table 16 in the discussion section, run **Discussion1.py** in command line by typing
+  ```
+  $ python3 Discussion1.py
+  ```
+  The code contains all the projects in an input list. If you want to add your own project, please put the .csv file into the /data folder and put the file name in the "project" list.
