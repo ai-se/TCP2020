@@ -26,4 +26,9 @@
   ```
   $ python3 Discussion1.py
   ```
-  The code contains all the projects in an input list. If you want to add your own project, please put the .csv file into the /data folder and put the file name in the "project" list.
+  The code contains all the projects in an input list called "projects" in the code. If you want to add your own projects, please put the .csv files into the **/data** folder and put the file name in the "projects" list. (We cannot share our proprietary data, so this project is excluded in this repo)
+- To reproduce our results for figure 3 in the discussion section, run **Discussion2.py** in command line by typing
+  ```
+  $ python3 Discussion2.py
+  ```
+  The code contains all the projects and their names in two input lists called "projects" and "project_name" in the code. If you want to add your own projects, please put the .csv files into the **/data** folder and put the file name in the "projects" and "project_name" list. (We cannot share our proprietary data, so this project is excluded in this repo)
