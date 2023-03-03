@@ -1,5 +1,8 @@
 # How Different is Test Case Prioritization for Open and Closed Source Projects
 
+## Reference to This Paper
+X. Ling, R. Agrawal, and T. Menzies, “How different is test case prioritization for open and closed source projects,” IEEE Transactions on Software Engineering, 2021.
+
 ## RQ Results of Prioritization Schemes
 
 - Clone the repository and install the required packages list in **requirements.txt**.
